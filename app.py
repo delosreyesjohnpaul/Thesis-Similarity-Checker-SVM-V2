@@ -26,8 +26,8 @@ def detect(input_text):
         cosine_similarities = cosine_similarity(vectorized_text, preprocessed_texts)[0]
         plagiarism_sources = []
         
-        # Set a threshold for relevant similarity (e.g., > 10%)
-        threshold = 0.1
+        # Set a threshold for relevant similarity (> 20%)
+        threshold = 0.2
         for i, similarity in enumerate(cosine_similarities):
             if similarity > threshold:
                 plagiarism_percentage = similarity * 100
