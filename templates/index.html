@@ -57,6 +57,19 @@
         border-radius: 5px;
         background-color: #e9ecef;
     }
+
+    .sources {
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #ffcccc;
+    }
+
+    .source-item {
+        margin: 5px 0;
+        padding: 5px;
+        border-bottom: 1px solid #ccc;
+    }
 </style>
 <body>
     <div class="container">
@@ -67,7 +80,17 @@
         </form>
         {% if result %}
             <div class="result">{{ result }}</div>
-            <div class="percentage">Plagiarism Percentage: {{ percentage }}%</div>
+            
+            {% if plagiarism_sources %}
+                <div class="sources">
+                    <h3>Plagiarized Sources</h3>
+                    {% for source_title, percentage in plagiarism_sources %}
+                        <div class="source-item">
+                            <strong>{{ source_title }}</strong>: {{ percentage }}%
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
         {% endif %}
     </div>
 </body>
