@@ -4,77 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Output Similarity Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            background: url('{{ url_for("static", filename="blue-mountains-background-scaled.jpeg") }}') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        .container {
+            width: 50%;
+            background: linear-gradient(to bottom, #76B8E0, #8FC8F0, #A8D8FF, #C1E3FF);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        textarea {
+            width: 90%;
+            height: 100px;
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result, .percentage {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #e9ecef;
+        }
+
+        .sources {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #ffcccc;
+        }
+
+        .source-item {
+            margin: 5px 0;
+            padding: 5px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
 </head>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f9;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        overflow: hidden; /* Prevents body from scrolling when container overflows */
-        background: linear-gradient(to bottom, #fff, #cbccc8) fixed;
-    }
-
-    .container {
-        width: 50%;
-        background: #ffffff;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        text-align: center;
-        max-height: 80vh; /* Set maximum height to 80% of the viewport */
-        overflow-y: auto; /* Makes the container scrollable */
-    }
-
-    h1 {
-        margin-bottom: 20px;
-    }
-
-    textarea {
-        width: 90%;
-        height: 100px;
-        margin-bottom: 20px;
-        padding: 10px;
-        border: 1px solid #cccccc;
-        border-radius: 5px;
-    }
-
-    button {
-        background-color: #007bff;
-        color: white;
-        border: none;
-        padding: 10px 20px;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-
-    button:hover {
-        background-color: #0056b3;
-    }
-
-    .result, .percentage {
-        margin-top: 20px;
-        padding: 10px;
-        border-radius: 5px;
-        background-color: #e9ecef;
-    }
-
-    .sources {
-        margin-top: 20px;
-        padding: 10px;
-        border-radius: 5px;
-        background-color: #ffcccc;
-    }
-
-    .source-item {
-        margin: 5px 0;
-        padding: 5px;
-        border-bottom: 1px solid #ccc;
-    }
-</style>
 <body>
     <div class="container">
         <h1>CCSICT Research Output Similarity Checker</h1>
