@@ -16,7 +16,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 tfidf_vectorizer = pickle.load(open('tfidf_vectorizer.pkl', 'rb'))
 
 # Load the dataset
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv('dataset2.csv')
 
 # Preprocess the texts in the dataset for similarity calculations
 preprocessed_texts = tfidf_vectorizer.transform(data['plagiarized_text'])

@@ -1,0 +1,383 @@
+,source_text,plagiarized_text,label
+0,"ANewHybridTechniqueforDetectionofPlagiarismfromText
+ Documents"," Plagiarism occurs when we use the ideas, expressions, work, and words of other authors and do not give them the required
+ attribution. The major contributing factor in plagiarism is the availability of a high amount of data and information on the
+ internet that can be swiftly accessed. The proposed system introduces an extrinsic plagiarism detection approach inspired by
+ cognition because it utilizes semantic knowledge to detect the plagiarized part from the text without human involvement. A
+ lexical database like WordNet assists the computers to perceive the data and information. These days most of the plagiarism
+ detection systems fail to detect highly complex cases of plagiarism. The proposed system uses Dice measure as similarity
+ measureforfindingthesemanticresemblancebetweenthepairofsentences.Italsouseslinguistic features like path similarity,
+ depth estimation measure to computetheresemblancebetweenthepairofwordsandthesefeaturesarecombinedbyassigning
+ different weights to them. It is capable of identifying cases like restructuring, paraphrasing, verbatim copy, and synonymized
+ plagiarism. It has been evaluated on the PAN-PC-11 corpus. The results obtained from the proposed system signify that it
+ has outperformed other existing systems on PAN-PC-11 in terms of precision, recall, F-measure, and PlagDet score. The
+ proposed system has innovative approach, but the results are somehow close and reasonably better than the existing systems.",1
+1,"Current Status, Challenges, and Opportunities in Rice Production",rice staple food nearly half worlds population continued increased production meet enhanced demand due everincreasing population faces many challenges per capita availability land water increasing fast rate worldwide mass ruraltourban movement youth search better livelihood reducing availability farm labor rice going suffer due changes high water labor requirements development highyielding varietieshybrids rice concomitant use high levels fertilizer specially nitrogen two major drivers increased rice production last four decades overuse fertilizer nitrogen created environmental problems greenhouse warming depletion ozone layer eutrophication surface groundwaters global concern nitrogen application rates rice therefore reduced may affect production nitrogen use efficiency rice lowest among cereals therefore urgent need developing nitrogen useefficient varieties rice production technologies demanding lesser water labor nitrogen pesticides achieving going herculean task agricultural scientists,1
+2,Meeting the challenges of global rice production,"Rice is the second most widely grown cereal crop and the staple food for more than half the world's population. More than 3 billion people consume more than 100 kg of rice per year. Rice is cultivated on 155.5 million ha with an average growth rate of 0.39% a year, in the last 30 years. In the near future, the possibility for expanding areas under rice-based systems will remain very limited because of the scarcity of global water resources for agriculture, the expansion of urban and industrial sectors in Asia where land is already limited and the high costs of developing new lands that are suited for rice production in Sub-Saharan Africa and Latin America. The average growth rate of rice yield was 3.68% per year in the early 1980s, but it has decreased to 0.74% per year in the late 1990s. Several factors may contribute to the decline of the area under cultivation and in yield growth. The most important of these factors are: limited returns as we approach the yield potential of the high yielding varieties, declining productivity in intensive rice production systems, pressures from abiotic and biotic stresses, low returns in developing countries, increasing production costs in industrialized countries, and increasing public concern for the protection of environmental resources. One of the most effective means of addressing the issues in rice cultivation and raising the average yields at the farm level is through research and subsequent dissemination of the resulting data. Rice science has made considerable progress. In the area of rice varietal improvement, recent advances in hybrid rice and the new rice for Africa (NERICA) are just two examples of the successful contributions of science to the development of rice. Research could also help reduce the gap between the potential yield obtained on experimental stations and the actual yield obtained in the fields. This could be possible by developing and promoting rice integrated crop management (RICM) systems for improving productivity and reducing the production cost per unit of output. The need for a sustainable increase in rice production affects everyone. The International Year of Rice provide us with a chance to improve food security, alleviate poverty and preserve the environment for the billions of people for whom Rice is Life.",1
+3,"An overview of global rice production, supply, trade, and consumption","Rice is the staple food for over half the world's population. Approximately 480 million metric tons of milled rice is produced annually. China and India alone account for ?50% of the rice grown and consumed. Rice provides up to 50% of the dietary caloric supply for millions living in poverty in Asia and is, therefore, critical for food security. It is becoming an important food staple in both Latin America and Africa. Record increases in rice production have been observed since the start of the Green Revolution. However, rice remains one of the most protected food commodities in world trade. Rice is a poor source of vitamins and minerals, and losses occur during the milling process. Populations that subsist on rice are at high risk of vitamin and mineral deficiency. Improved technologies to fortify rice have the potential to address these deficiencies and their associated adverse health effects. With the rice industry consolidating in many countries, there are opportunities to fortify a significant share of rice for distribution or for use in government safety net programs that target those most in need, especially women and children. Multisectoral approaches are needed for the promotion and implementation of rice fortification in countries.",1
+4,Current Status and Challenges of Rice Production in China,"Rice production in China has more than tripled in the past five decades mainly due to increased grain yield rather than increased planting area. This increase has come from the development of high-yielding varieties and improved crop management practices such as nitrogen fertilization and irrigation. However, yield stagnation of rice has been observed in the past ten years in China. As its population rises, China will need to produce about 20% more rice by 2030 in order to meet its domestic needs if rice consumption per capita stays at the current level. This is not an easy task because several trends and problems in the Chinese rice production system constrain the sustainable increase in total rice production. Key trends include a decline in arable land, increasing water scarcity, global climate change, labor shortages, and increasing consumer demand for high-quality rice (which often comes from low-yielding varieties). The major problems confronting rice production in China are narrow genetic background, overuse of fertilizers and pesticides, breakdown of irrigation infrastructure, oversimplified crop management, and a weak extension system. Despite these challenges, good research strategies can drive increased rice production in China. These include the development of new rice varieties with high yield potential, improvement of resistances to major diseases and insects, and to major abiotic stresses such as drought and heat, and the establishment of integrated crop management. We believe that a sustainable increase in rice production is achievable in China with the development of new technology through rice research.",1
+5,THE FUTURE OF RICE PRODUCTION AND CONSUMPTION,This sentence is unique and original.,0
+6,Artificial intelligence is reshaping industries.,AI is changing the landscape of various sectors.,0
+7,Python is a popular programming language for data science.,Data science often relies on Python as a widely used programming language.,0
+8,The Earth revolves around the Sun in a nearly circular orbit.,Our planet follows an almost circular path as it moves around the central star.,0
+9,Paris is the capital of France.,France's capital city is Paris.,0
+10,The Earth revolves around the Sun in a nearly circular orbit.,AI is changing the landscape of various sectors.,1
+11,Rice Production Systems,"Rice is grown in more than 100 countries spread across six continents and in varying agroecological and socioeconomic conditions. Rice production systems were classified over years differently depending on the context. In this chapter, the method of rice establishment is considered as criteria for classifying rice production systems across the globe. An attempt is made here to summarize the information on rice production systems, resources used, crop productivity attained, the challenges encountered, and possible research needs for improving productivity in rice production systems, to meet the future food demands. Based on the major methods of rice establishment of the world, the rice production systems are categorized as (a) transplanted rice (TPR) production systems and (b) direct-seeded rice (DSR) production systems. DSR production systems are further categorized as (i) dry-seeded rice (dry-DSR) production system, (ii) wet-seeded rice (wet-DSR) production system, and (iii) water-seeded rice (water-DSR) production system. The productivity of TPR and DSR was reported to be similar when the best management practices are adopted. As already occurred in the developed world, a shift in adoption toward DSR production systems is occurring in developing world, due to advantages of DSR production systems such as lesser cost of production, increased resource (water, labor, and energy) use efficiency, and income compared to TPR. Lower environmental footprint was found to be another advantage of DSR production systems when they were combined with other conservation agricultural practices. The need for continuous research efforts was stressed for understanding the evolving rice production systems across the globe and to develop practical integrated crop management strategies that improve rice productivity and production effectively, sustainably, and economically with minimal environment footprint.",1
+12,Increasing Rice Production in Sub-Saharan Africa: Challenges and Opportunities,"Sub-Saharan Africa (SSA) faces multiple problems. The main one is improving the lives of the 30% of its population that suffers from extreme poverty and food insecurity. As more than 70% of the population lives off farming and related activities, agricultural development will have to play a major role in improving this situation. Fortunately, Africa has an abundant supply of natural resources that can support a huge expansion in food, specifically rice production. Because of strong demand, rice area expansion in SSA is larger than for any other crop. Total milled rice production increased from 2.2 million Mg in 1961 to 9.1 million Mg in 2004. Rice imports into SSA also increased from 0.5 million Mg of milled rice in 1961 to 6.0 million Mg in 2003 and SSA currently accounts for 25% of global rice imports, at a cost of more than US$1.5 billion per year. Therefore, many African governments accord high priority to developing their local rice sector as an important component of national food security, economic growth, and poverty alleviation. The abundant supply of agroclimatically suitable wetlands (~239 million ha) and water resources can support a large expansion in rice area and productivity. Currently, less than 5% of the potentially suitable wetlands are planted with rice because of various constraints. Expansion and intensification of rice cultivation in SSA will not compete with other crops in terms of land and water resources because, during the rainy season, only rice can be grown on low-lying wetlands, including inland valleys. In addition, the labor-intensive nature of rice cultivation will provide additional sources of work and income to the rural poor, especially women. Should labor shortages become acute, however, appropriate mechanization can be considered. Small farmers want to earn money from rice farming, but lack modern inputs and capital to fully exploit their rice lands as these items are limited or not available. This is where an innovative public–private partnership is desirable to support the intensification of rice farming.",1
+13,Rice Production in Asia: Key to Global Food Security,Eating a mix of fruits and vegetables is part of a healthy diet.,1
+14,New York City is known for its bustling Times Square.,"Rice is the staple food for over half of the global population. About 90% of the global rice is produced and consumed in Asia. Hence, rice production in Asia is the key for global food security. The growth in rice production with stability has been a matter of concern to achieve food security, especially in developing countries. In this backdrop, the present paper attempts to study the area and production growth rates of major rice growing countries of Asia. Also, the export growth rates were estimated and the contribution of major rice growing countries of Asia to Global food security was quantified for the period between 1994 and 2013. The trends from the year 1964 for area and production were analyzed. For exports, the trends have been analysed from the year 1984. The results revealed that there was a rapid increase in production of rice during 2004–2013 mainly because of increase in area and also because of increased investment in agriculture. The growth rate of exports has declined and stood at 4.01% during 2004–2012. This is mainly because of 2008 rice crisis that has provided impetus to expanded rice production in several rice importing countries. The study suggests that, for expansion of international trade, the governments will need to adopt measures that reduce supply chain loss, improve supply response time, reduce the market costs and post harvest loss.",1
+15,Major Constraints for Global Rice Production,"Global mean air temperature is projected to rise by 1.4–5.8°C from 1990–2100, due to increasing concentration of greenhouse gases in the atmosphere. Investigations predict that in 21st century the sea level may rise by 1 m or more, which would adversely affect one billion people by 2050. Coastal regions, being major irrigated rice-growing zones, are prone to be devastated by climate change, loss of wetlands, heightened storm damage, and increased salinity from saltwater intrusion. Scientists reported 23% improvement in rice-grain yield due to increasing CO2 from 365 to 627 mg kg?1; however, this increase is nullified by increasing mean air temperature. Both low and high temperature at high and low altitude respectively, reduce rice yield. Scientists found a 10% decrease in rice yield by per degree centigrade increase in minimum temperature. Similarly, decrease in rice yield was noticed in many parts of the world due to scarcity of good quality water, drought, salinity, land degradation, poor weed control, low input use, uneven patterns of rainfall, high disease occurrence, poor soil fertility, and some socioeconomic issues. Therefore, integrated management systems must be developed through eco-friendly agronomic practices, research, and modeling to overcome these hurdles for obtaining sustainable and profitable productivity of rice.",1
+16,Shakespeare is regarded as one of the greatest playwrights in history.,One of history's greatest playwrights is Shakespeare.,1
+17,The Pacific Ocean is the largest and deepest ocean on Earth.,Earth's largest and deepest ocean is the Pacific.,1
+18,Climate change is a significant global issue.,Global warming is a major issue affecting the planet.,1
+19,Birds have feathers and lay eggs.,Feathers and egg-laying are characteristic of birds.,1
+20,The internet has revolutionized communication.,Communication has been transformed by the internet.,1
+21,The human brain consists of billions of neurons.,Billions of neurons make up the human brain.,1
+22,Photosynthesis occurs in the chloroplasts of plant cells.,Plant cells' chloroplasts are where photosynthesis takes place.,1
+23,Mount Everest is the highest mountain in the world.,The world's highest mountain is Mount Everest.,1
+24,Leonardo da Vinci painted the Mona Lisa.,The Mona Lisa was painted by Leonardo da Vinci.,1
+25,The Amazon River is the longest river in South America.,South America's longest river is the Amazon River.,1
+26,Albert Einstein developed the theory of relativity.,The theory of relativity was developed by Albert Einstein.,1
+27,The Pyramids of Giza are located in Egypt.,Egypt is home to the Pyramids of Giza.,1
+28,The chemical symbol for gold is Au.,Au is the chemical symbol for gold.,1
+29,Mars is often called the Red Planet.,The Red Planet is a common name for Mars.,1
+30,The Great Barrier Reef is located off the coast of Australia.,Off Australia's coast lies the Great Barrier Reef.,1
+31,Venus is the second planet from the Sun.,The Sun's second planet is Venus.,1
+32,Beethoven was a famous composer and pianist.,A renowned composer and pianist was Beethoven.,1
+33,Hydrogen is the lightest element on the periodic table.,The lightest element on the periodic table is hydrogen.,1
+34,"The speed of light in a vacuum is approximately 299,792 kilometers per second.","In a vacuum, light travels at about 299,792 kilometers per second.",1
+35,Alexander Graham Bell is credited with inventing the telephone.,The invention of the telephone is credited to Alexander Graham Bell.,1
+36,Antarctica is the coldest continent on Earth.,Earth's coldest continent is Antarctica.,1
+37,"The Taj Mahal is located in Agra, India.","Agra, India is where the Taj Mahal is located.",1
+38,Mitochondria are known as the powerhouse of the cell.,The powerhouse of the cell is known as mitochondria.,1
+39,The Nile River flows through northeastern Africa.,Northeastern Africa is traversed by the Nile River.,1
+40,Thomas Edison invented the electric light bulb.,The electric light bulb was invented by Thomas Edison.,1
+41,The Pacific Ocean covers more area than any other ocean.,No ocean covers more area than the Pacific Ocean.,1
+42,Honey never spoils and can last for thousands of years.,Honey can last for thousands of years without spoiling.,1
+43,Neil Armstrong was the first person to walk on the Moon.,The first person to walk on the Moon was Neil Armstrong.,1
+44,Julius Caesar was a key figure in the rise of the Roman Empire.,The rise of the Roman Empire saw Julius Caesar as a key figure.,1
+45,Oxygen is essential for human respiration.,Human respiration requires oxygen.,1
+46,"The Eiffel Tower is a famous landmark in Paris, France.","Paris, France is known for the Eiffel Tower.",1
+47,Saturn is known for its prominent ring system.,The ring system of Saturn is prominent.,1
+48,Marie Curie won Nobel Prizes in both Physics and Chemistry.,Nobel Prizes in both Physics and Chemistry were awarded to Marie Curie.,1
+49,The Chernobyl disaster occurred in 1986.,1986 was the year of the Chernobyl disaster.,1
+50,Honey bees communicate through a series of dance movements.,A series of dance movements is how honey bees communicate.,1
+51,The Rosetta Stone helped decipher Egyptian hieroglyphs.,Egyptian hieroglyphs were deciphered with the help of the Rosetta Stone.,1
+52,Dolphins are highly intelligent marine mammals.,Marine mammals known for their high intelligence are dolphins.,1
+53,Mercury is the closest planet to the Sun.,The Sun's nearest planet is Mercury.,1
+54,The human heart pumps blood throughout the body.,Blood is pumped throughout the body by the human heart.,1
+55,Tsunamis are caused by underwater earthquakes or volcanic eruptions.,Underwater earthquakes or volcanic eruptions cause tsunamis.,1
+56,"The Grand Canyon is located in the state of Arizona, USA.","Arizona, USA is home to the Grand Canyon.",1
+57,Isaac Newton formulated the laws of motion and universal gravitation.,The laws of motion and universal gravitation were formulated by Isaac Newton.,1
+58,The Blue Whale is the largest animal on Earth.,Earth's largest animal is the Blue Whale.,1
+59,Lightning is a sudden electrostatic discharge during a storm.,A storm's sudden electrostatic discharge is lightning.,1
+60,Charles Darwin proposed the theory of natural selection.,The theory of natural selection was proposed by Charles Darwin.,1
+61,"The Golden Gate Bridge is located in San Francisco, California.","San Francisco, California is where the Golden Gate Bridge is located.",1
+62,Photosynthesis converts carbon dioxide and water into glucose and oxygen.,Carbon dioxide and water are converted into glucose and oxygen through photosynthesis.,1
+63,The Dead Sea is one of the saltiest bodies of water in the world.,One of the world's saltiest bodies of water is the Dead Sea.,1
+64,Albert Einstein's equation E=mcÂ² relates energy to mass.,The relation between energy and mass is given by Albert Einstein's equation E=mcÂ².,1
+65,The Amazon Rainforest is often called the 'lungs of the Earth'.,The 'lungs of the Earth' is a common nickname for the Amazon Rainforest.,1
+66,Venus rotates in the opposite direction to most planets in the solar system.,Most planets in the solar system rotate in the opposite direction to Venus.,1
+67,The Leaning Tower of Pisa is famous for its unintended tilt.,The unintended tilt of the Leaning Tower of Pisa makes it famous.,1
+68,Jupiter has the shortest day of all the planets in the solar system.,The shortest day of all the planets in the solar system is on Jupiter.,1
+69,Florence Nightingale is considered the founder of modern nursing.,The founder of modern nursing is considered to be Florence Nightingale.,1
+70,"Hurricanes are large, powerful storms that form over warm ocean waters.","Warm ocean waters give rise to large, powerful storms known as hurricanes.",1
+71,The Colosseum in Rome is an ancient amphitheater.,Rome's ancient amphitheater is the Colosseum.,1
+72,Honey bees are vital for pollination of many crops.,Pollination of many crops is crucially carried out by honey bees.,1
+73,The Mona Lisa is displayed in the Louvre Museum in Paris.,The Louvre Museum in Paris displays the Mona Lisa.,1
+74,The Earth's atmosphere is composed primarily of nitrogen and oxygen.,Nitrogen and oxygen primarily make up the Earth's atmosphere.,1
+75,"The Great Wall of China stretches over 13,000 miles.","Over 13,000 miles long is the Great Wall of China.",1
+76,Neil Armstrong was the first person to set foot on the moon.,The first person to set foot on the moon was Neil Armstrong.,1
+77,Water freezes at 0 degrees Celsius.,0 degrees Celsius is the freezing point of water.,1
+78,The Leaning Tower of Pisa is known for its unintended tilt.,The unintended tilt of the Leaning Tower of Pisa is well-known.,1
+79,Electric cars produce no emissions during operation.,"During operation, electric cars produce no emissions.",1
+80,Bees produce honey from the nectar of flowers.,Honey is produced by bees from the nectar of flowers.,1
+81,The Sun is the center of our solar system.,Our solar system's center is the Sun.,1
+83,Mount Kilimanjaro is the highest mountain in Africa.,Africa's highest mountain is Mount Kilimanjaro.,1
+84,The Eiffel Tower is one of the most recognizable structures in the world.,One of the world's most recognizable structures is the Eiffel Tower.,1
+85,Julius Caesar was assassinated in 44 BC.,"In 44 BC, Julius Caesar was assassinated.",1
+86,The Pacific Ocean is the largest and deepest ocean on Earth.,Earth's largest and deepest ocean is the Pacific Ocean.,1
+87,Venus is the hottest planet in our solar system.,The hottest planet in our solar system is Venus.,1
+88,Shakespeare wrote 'Romeo and Juliet'.,'Romeo and Juliet' was written by Shakespeare.,1
+91,Elephants are the largest land animals on Earth.,The largest land animals on Earth are elephants.,1
+93,DNA stands for deoxyribonucleic acid.,Deoxyribonucleic acid is abbreviated as DNA.,1
+104,The Sahara Desert is the largest hot desert in the world.,The world's largest hot desert is the Sahara Desert.,1
+107,The Great Wall of China is visible from space.,"From space, the Great Wall of China is visible.",1
+110,The Amazon Rainforest is the largest tropical rainforest in the world.,The world's largest tropical rainforest is the Amazon Rainforest.,1
+120,Lightning is a natural phenomenon.,A natural phenomenon is lightning.,0
+121,Python is used for web development.,Web development uses Python.,0
+122,Bananas are rich in potassium.,Potassium is rich in bananas.,0
+123,The sky is blue.,Blue is the sky.,0
+124,JavaScript is popular for front-end development.,Front-end development is popular for JavaScript.,0
+125,Dogs are known as man's best friend.,Man's best friend is known as dogs.,0
+126,The sun rises in the east.,"In the east, the sun rises.",0
+127,Books are a source of knowledge.,A source of knowledge are books.,0
+128,Cars need fuel to run.,"To run, cars need fuel.",0
+129,Water boils at 100 degrees Celsius.,"At 100 degrees Celsius, water boils.",0
+130,Chocolate is made from cocoa beans.,Cocoa beans make chocolate.,0
+131,Birds can fly.,Flying is a capability of birds.,0
+132,Coffee contains caffeine.,Caffeine is contained in coffee.,0
+133,The Earth is round.,Round is the Earth.,0
+134,Apples are a type of fruit.,A type of fruit is apples.,0
+135,The color of grass is green.,Green is the color of grass.,0
+136,Rain falls from clouds.,"From clouds, rain falls.",0
+137,Elephants are large animals.,Large animals are elephants.,0
+138,Fire produces heat.,Heat is produced by fire.,0
+139,Music can be soothing.,Soothing can be music.,0
+140,The Moon affects tides.,Tides are affected by the Moon.,0
+141,Cats are often kept as pets.,Pets are often kept as cats.,0
+142,Bread is made from flour.,Flour makes bread.,0
+143,Flowers bloom in spring.,"In spring, flowers bloom.",0
+144,The color of the sky is blue.,Blue is the color of the sky.,0
+145,Butterflies have colorful wings.,Colorful wings are possessed by butterflies.,0
+146,Winter is the coldest season.,The coldest season is winter.,0
+147,Summer is the warmest season.,The warmest season is summer.,0
+148,Ice melts at 0 degrees Celsius.,"At 0 degrees Celsius, ice melts.",0
+149,Trees produce oxygen.,Oxygen is produced by trees.,0
+150,Sunflowers turn to face the sun.,The sun is faced by sunflowers.,0
+151,Books can be informative.,Informative can be books.,0
+152,The library is a place to read.,A place to read is the library.,0
+153,The ocean is vast.,Vast is the ocean.,0
+154,Mountains are tall.,Tall are mountains.,0
+155,Rivers flow to the sea.,"To the sea, rivers flow.",0
+156,Pineapples are tropical fruits.,Tropical fruits are pineapples.,0
+157,Butter is made from milk.,Milk makes butter.,0
+158,Rainbows appear after rain.,"After rain, rainbows appear.",0
+159,Leaves change color in autumn.,"In autumn, leaves change color.",0
+160,Spiders spin webs.,Webs are spun by spiders.,0
+161,The Statue of Liberty is located in New York Harbor.,New York Harbor is where the Statue of Liberty stands.,1
+162,The human body is composed of approximately 60% water.,About 60% of the human body is made up of water.,1
+163,Albert Einstein developed the theory of general relativity.,The theory of general relativity was formulated by Albert Einstein.,1
+164,The Taj Mahal was built by Emperor Shah Jahan.,Emperor Shah Jahan built the Taj Mahal.,1
+165,The Pacific Ocean is the largest ocean on Earth.,The Earth's largest ocean is the Pacific Ocean.,1
+166,Leonardo da Vinci was a famous Italian polymath.,A renowned Italian polymath was Leonardo da Vinci.,1
+167,The Amazon River flows through South America.,South America is traversed by the Amazon River.,1
+168,"Thomas Edison held over 1,000 patents.","Over 1,000 patents were held by Thomas Edison.",1
+169,The Sahara Desert covers much of North Africa.,North Africa is largely covered by the Sahara Desert.,1
+170,Jupiter is the largest planet in our solar system.,The solar system's largest planet is Jupiter.,1
+171,The Great Barrier Reef is the world's largest coral reef system.,The largest coral reef system in the world is the Great Barrier Reef.,1
+172,"The human heart beats about 100,000 times a day.","About 100,000 beats per day are made by the human heart.",1
+173,Bacteria can reproduce rapidly under ideal conditions.,"Under ideal conditions, bacteria can reproduce quickly.",1
+174,Venus is often referred to as Earth's sister planet.,Earth's sister planet is often said to be Venus.,1
+175,The Milky Way is the galaxy that contains our Solar System.,Our Solar System is within the galaxy known as the Milky Way.,1
+176,The Earth's crust is made up of tectonic plates.,Tectonic plates make up the Earth's crust.,1
+177,The Eiffel Tower was completed in 1889.,1889 saw the completion of the Eiffel Tower.,1
+178,Photosynthesis occurs in the chloroplasts of plant cells.,Plant cells' chloroplasts are the site of photosynthesis.,1
+179,The speed of sound is approximately 343 meters per second in air.,"In air, sound travels at about 343 meters per second.",1
+180,Bees play a crucial role in pollinating plants.,Pollinating plants is a crucial role played by bees.,1
+181,Mount Everest is located in the Himalayas.,The Himalayas are home to Mount Everest.,1
+182,The moon affects the Earth's tides.,Earth's tides are affected by the moon.,1
+183,The Amazon rainforest is home to a vast number of species.,A vast number of species live in the Amazon rainforest.,1
+184,The Rosetta Stone was key to deciphering Egyptian hieroglyphs.,Deciphering Egyptian hieroglyphs was made possible by the Rosetta Stone.,1
+185,The Pacific Ocean covers more than 60 million square miles.,Over 60 million square miles are covered by the Pacific Ocean.,1
+186,Albert Einstein was born in Germany.,Germany is the birthplace of Albert Einstein.,1
+187,The Sahara Desert is one of the hottest places on Earth.,One of Earth's hottest places is the Sahara Desert.,1
+188,The Earth's atmosphere protects us from harmful solar radiation.,Harmful solar radiation is blocked by the Earth's atmosphere.,1
+189,Venus has a very thick atmosphere composed mostly of carbon dioxide.,"A thick atmosphere, mostly carbon dioxide, covers Venus.",1
+190,The Eiffel Tower was designed by Gustave Eiffel.,Gustave Eiffel designed the Eiffel Tower.,1
+191,Mars has the largest volcano in the solar system.,The largest volcano in the solar system is on Mars.,1
+192,The Blue Whale is the largest animal ever known to have lived.,The largest known animal ever to have lived is the Blue Whale.,1
+193,The Leaning Tower of Pisa is a freestanding bell tower.,A freestanding bell tower is the Leaning Tower of Pisa.,1
+194,Shakespeare's plays are still performed today.,"Today, Shakespeare's plays are still performed.",1
+195,The Pacific Ocean is the deepest ocean on Earth.,Earth's deepest ocean is the Pacific Ocean.,1
+196,Florence Nightingale is known as the founder of modern nursing.,The founder of modern nursing is Florence Nightingale.,1
+197,Electric cars produce zero emissions while driving.,"While driving, electric cars produce zero emissions.",1
+198,The Statue of Liberty was a gift from France.,France gifted the Statue of Liberty.,1
+199,The Amazon River is the second longest river in the world.,The world's second longest river is the Amazon River.,1
+200,Charles Darwin developed the theory of evolution by natural selection.,The theory of evolution by natural selection was developed by Charles Darwin.,1
+201,Mercury is the smallest planet in our solar system.,The smallest planet in our solar system is Mercury.,1
+202,Lightning is a natural electrical discharge.,An electrical discharge occurring naturally is lightning.,1
+203,The Leaning Tower of Pisa leans due to unstable foundation.,Unstable foundation causes the Leaning Tower of Pisa to lean.,1
+204,DNA is the molecule that carries genetic information.,Genetic information is carried by the molecule known as DNA.,1
+205,The human brain has approximately 86 billion neurons.,About 86 billion neurons are in the human brain.,1
+206,The Amazon Rainforest is often called the 'lungs of the planet'.,The 'lungs of the planet' often refer to the Amazon Rainforest.,1
+207,Venus has a surface temperature hot enough to melt lead.,The surface temperature of Venus is hot enough to melt lead.,1
+208,Thomas Edison invented the phonograph.,The phonograph was invented by Thomas Edison.,1
+209,Daily exercise promotes good health.,Good health is promoted by daily exercise.,0
+210,Effective communication prevents misunderstandings.,Misunderstandings are prevented by effective communication.,0
+211,Positive thinking can lead to better outcomes.,Better outcomes are achieved through positive thinking.,0
+212,Learning a new language opens up opportunities.,Opportunities are opened up by learning a new language.,0
+213,Teamwork leads to more efficient problem solving.,Problems are solved more efficiently through teamwork.,0
+214,Time management is crucial for productivity.,Productivity relies on effective time management.,0
+215,Balanced diets contribute to overall wellness.,Overall wellness is enhanced by balanced diets.,0
+216,History helps us understand our present.,Understanding our present is aided by history.,0
+217,Art can express complex emotions.,Complex emotions are expressed through art.,0
+218,Sustainable practices protect our environment.,Our environment is protected by sustainable practices.,0
+219,Critical thinking is essential in decision making.,Decision making is improved by critical thinking.,0
+220,Good habits form the basis of a successful life.,A successful life is built on good habits.,0
+221,Volunteering builds community connections.,Community connections are strengthened by volunteering.,0
+222,Meditation can enhance mental clarity.,Mental clarity is improved by meditation.,0
+223,Quality sleep is vital for overall health.,Overall health is supported by quality sleep.,0
+224,Education broadens our perspective.,Our perspective is broadened by education.,0
+225,Gardening can be a therapeutic activity.,Therapeutic benefits can be found in gardening.,0
+226,Adventures make life more exciting.,Life becomes more exciting through adventures.,0
+227,Technology is advancing at a rapid pace.,The pace of technological advancement is rapid.,0
+228,Networking can lead to career opportunities.,Career opportunities arise through networking.,0
+229,Sharks have existed for over 400 million years.,"For over 400 million years, sharks have existed.",1
+230,Mount Everest is the highest peak in the world.,The world's highest peak is Mount Everest.,1
+231,Bees can recognize human faces.,Human faces can be recognized by bees.,1
+232,The Great Wall of China was built over several dynasties.,Several dynasties saw the building of the Great Wall of China.,1
+233,The human body contains 206 bones.,206 bones are contained in the human body.,1
+234,Albert Einstein's equation E=mcÂ² is famous.,"The equation E=mcÂ², by Albert Einstein, is famous.",1
+235,Saturn's rings are made of ice and rock.,Ice and rock make up Saturn's rings.,1
+236,The Milky Way galaxy is spiral-shaped.,A spiral shape describes the Milky Way galaxy.,1
+237,The speed of light is the fastest speed in the universe.,The universe's fastest speed is the speed of light.,1
+238,Shakespeare's works are considered literary classics.,Literary classics include Shakespeare's works.,1
+239,The Pacific Ocean is larger than all the landmasses combined.,All landmasses combined are smaller than the Pacific Ocean.,1
+240,Mount Everest is part of the Himalaya mountain range.,The Himalaya mountain range includes Mount Everest.,1
+241,"The Great Wall of China is over 13,000 miles long.","Over 13,000 miles long is the Great Wall of China.",1
+242,The Earth rotates on its axis once every 24 hours.,"Every 24 hours, the Earth rotates on its axis.",1
+243,The Great Barrier Reef is a UNESCO World Heritage site.,A UNESCO World Heritage site is the Great Barrier Reef.,1
+244,Julius Caesar was a Roman general and statesman.,A Roman general and statesman was Julius Caesar.,1
+245,Albert Einstein was awarded the Nobel Prize in Physics in 1921.,"In 1921, the Nobel Prize in Physics was awarded to Albert Einstein.",1
+246,The Earth's atmosphere consists of 78% nitrogen.,78% of the Earth's atmosphere consists of nitrogen.,1
+247,The Leaning Tower of Pisa is located in Italy.,Italy is home to the Leaning Tower of Pisa.,1
+248,The Amazon Rainforest produces 20% of the world's oxygen.,20% of the world's oxygen is produced by the Amazon Rainforest.,1
+249,The Earth revolves around the Sun in 365 days.,"In 365 days, the Earth revolves around the Sun.",1
+250,Venus has a surface covered with volcanoes and lava plains.,Volcanoes and lava plains cover the surface of Venus.,1
+251,Sharks have multiple rows of teeth.,Multiple rows of teeth are possessed by sharks.,1
+252,The human eye can distinguish approximately 10 million colors.,About 10 million colors can be distinguished by the human eye.,1
+254,"Mount Everest's summit reaches an altitude of 29,032 feet.","An altitude of 29,032 feet is reached by Mount Everest's summit.",1
+255,The Milky Way contains billions of stars.,Billions of stars are contained in the Milky Way.,1
+256,Shakespeare's 'Romeo and Juliet' is a tragedy.,A tragedy is Shakespeare's 'Romeo and Juliet'.,1
+257,"The Pacific Ocean has an average depth of 12,080 feet.","12,080 feet is the average depth of the Pacific Ocean.",1
+258,Saturn is known for its prominent ring system.,A prominent ring system characterizes Saturn.,1
+259,The Amazon River discharges more water than any other river.,More water is discharged by the Amazon River than any other.,1
+260,The Earth's magnetic field protects us from solar wind.,Solar wind is deflected by the Earth's magnetic field.,1
+261,Albert Einstein was a theoretical physicist.,A theoretical physicist was Albert Einstein.,1
+262,Sharks are apex predators in the ocean.,"In the ocean, apex predators include sharks.",1
+263,Mount Everest's height increases due to tectonic activity.,Tectonic activity causes an increase in Mount Everest's height.,1
+264,Venus is the second planet from the Sun.,The second planet from the Sun is Venus.,1
+265,DNA is a double-helix structure.,A double-helix structure describes DNA.,1
+266,Thomas Edison was a prolific inventor.,A prolific inventor was Thomas Edison.,1
+267,The Great Wall of China can be seen from space.,"From space, the Great Wall of China is visible.",1
+268,The Pacific Ocean's name means 'peaceful ocean'.,The name of the Pacific Ocean means 'peaceful ocean'.,1
+269,The Milky Way is part of the Local Group of galaxies.,The Local Group of galaxies includes the Milky Way.,1
+270,Saturn's largest moon is Titan.,Titan is Saturn's largest moon.,1
+272,The Great Barrier Reef is located off the coast of Australia.,Off the coast of Australia is the Great Barrier Reef.,1
+273,Venus has a day longer than its year.,A day on Venus is longer than its year.,1
+274,Sharks have been around for over 400 million years.,"For over 400 million years, sharks have existed.",1
+275,The human brain is protected by the skull.,The skull protects the human brain.,1
+276,Albert Einstein's theory of relativity revolutionized physics.,Physics was revolutionized by Albert Einstein's theory of relativity.,1
+277,DNA carries genetic information.,Genetic information is carried by DNA.,1
+281,Innovation drives the economy forward.,The economy progresses through innovation.,0
+282,Education is the key to personal growth.,Personal growth hinges on education.,0
+283,Nature walks can be very relaxing.,Walking in nature is a great way to relax.,0
+284,Healthy relationships are built on trust.,Trust is the foundation of healthy relationships.,0
+285,Creative hobbies can reduce stress.,Engaging in creative hobbies lowers stress levels.,0
+286,Technology connects people globally.,People around the world are connected by technology.,0
+287,Reading enhances cognitive abilities.,Cognitive skills are improved by reading.,0
+288,Travel exposes you to new experiences.,New experiences come from traveling.,0
+289,Volunteering gives a sense of fulfillment.,A sense of fulfillment is gained through volunteering.,0
+290,Listening to music can boost your mood.,Your mood can be lifted by listening to music.,0
+291,Reading regularly improves vocabulary.,Vocabulary is improved through regular reading.,0
+292,Traveling broadens cultural understanding.,Cultural understanding is broadened by traveling.,0
+293,Music can uplift one's mood.,One's mood can be uplifted by music.,0
+294,Healthy relationships contribute to happiness.,Happiness is increased by healthy relationships.,0
+295,Hobbies can reduce stress levels.,Stress levels are reduced by engaging in hobbies.,0
+296,Regular check-ups maintain health.,Health is maintained through regular check-ups.,0
+297,Exercise boosts mental health.,Mental health is boosted by exercise.,0
+298,Creative writing fosters imagination.,Imagination is fostered by creative writing.,0
+299,Public speaking skills are valuable.,Valuable skills include public speaking.,0
+300,Cooking at home can be healthier.,Healthier meals can be made by cooking at home.,0
+301,Social interactions can enhance well-being.,Well-being is enhanced by social interactions.,0
+302,Learning history helps us avoid past mistakes.,Past mistakes are avoided by learning history.,0
+303,Nature walks can be rejuvenating.,Rejuvenation can be found in nature walks.,0
+304,Good financial habits lead to security.,Financial security is achieved through good habits.,0
+305,Writing regularly can improve clarity of thought.,Clarity of thought is improved by regular writing.,0
+306,Strong leadership inspires others.,Others are inspired by strong leadership.,0
+307,Cultural diversity enriches communities.,Communities are enriched by cultural diversity.,0
+308,Mindfulness practices improve focus.,Focus is improved by mindfulness practices.,0
+309,Positive feedback boosts confidence.,Confidence is boosted by positive feedback.,0
+310,Scientific research drives innovation.,Innovation is driven by scientific research.,0
+311,Studying regularly improves academic performance.,Academic performance improves with regular studying.,0
+312,A balanced diet promotes overall health.,Overall health is promoted by a balanced diet.,0
+313,Meditation helps in reducing stress.,Stress is reduced by practicing meditation.,0
+314,Team sports build cooperation skills.,Cooperation skills are built through team sports.,0
+315,A good night's sleep enhances productivity.,Productivity is enhanced by a good night's sleep.,0
+316,Recycling conserves natural resources.,Natural resources are conserved through recycling.,0
+317,Reading fiction enhances creativity.,Creativity is enhanced by reading fiction.,0
+318,Volunteering increases community engagement.,Community engagement is increased through volunteering.,0
+319,Learning a new language improves cognitive abilities.,Cognitive abilities are improved by learning a new language.,0
+320,Practicing gratitude boosts mental health.,Mental health is boosted by practicing gratitude.,0
+321,Proper hydration is essential for bodily functions.,Bodily functions rely on proper hydration.,0
+322,Artistic activities can be therapeutic.,Therapy can be found in artistic activities.,0
+323,Regular exercise strengthens the immune system.,The immune system is strengthened by regular exercise.,0
+324,Financial literacy leads to better money management.,Better money management is a result of financial literacy.,0
+325,Spending time outdoors enhances well-being.,Well-being is enhanced by spending time outdoors.,0
+326,Time management skills improve efficiency.,Efficiency is improved by time management skills.,0
+327,Gardening can be a relaxing hobby.,Relaxation can be found in gardening.,0
+328,Historical knowledge provides valuable insights.,Valuable insights are gained from historical knowledge.,0
+329,Physical activity reduces the risk of chronic diseases.,The risk of chronic diseases is reduced by physical activity.,0
+330,Effective communication strengthens relationships.,Relationships are strengthened by effective communication.,0
+331,Yoga improves flexibility and balance.,Flexibility and balance are improved by yoga.,0
+332,Good hygiene practices prevent illness.,Illness is prevented by good hygiene practices.,0
+333,Critical thinking enhances problem-solving abilities.,Problem-solving abilities are enhanced by critical thinking.,0
+334,Listening to music can be relaxing.,Relaxation can be achieved by listening to music.,0
+335,Gardening provides a sense of accomplishment.,A sense of accomplishment is found in gardening.,0
+336,Learning new skills boosts self-confidence.,Self-confidence is boosted by learning new skills.,0
+337,Spending time with loved ones improves mental health.,Mental health is improved by spending time with loved ones.,0
+338,Reading non-fiction enhances knowledge.,Knowledge is enhanced by reading non-fiction.,0
+339,Playing board games can improve strategic thinking.,Strategic thinking is improved by playing board games.,0
+340,Practicing mindfulness reduces anxiety.,Anxiety is reduced by practicing mindfulness.,0
+341,Cooking can be a creative outlet.,Creativity can be expressed through cooking.,0
+342,Traveling expands one's perspective.,Perspectives are expanded through traveling.,0
+343,Writing in a journal clarifies thoughts.,Thoughts are clarified by writing in a journal.,0
+344,Swimming is an excellent full-body workout.,A full-body workout can be achieved through swimming.,0
+345,Reading to children supports their development.,Children's development is supported by reading to them.,0
+346,Cycling is a great form of cardiovascular exercise.,Cardiovascular health benefits from cycling.,0
+347,Public speaking can enhance leadership skills.,Leadership skills are enhanced by public speaking.,0
+348,Photography encourages observation and creativity.,Observation and creativity are encouraged by photography.,0
+349,Playing musical instruments enhances coordination.,Coordination is enhanced by playing musical instruments.,0
+350,Meditation can improve concentration.,Concentration is improved by meditation.,0
+351,Hiking connects people with nature.,Nature connections are made through hiking.,0
+352,Learning to code develops logical thinking.,Logical thinking is developed by learning to code.,0
+353,Reading science fiction stimulates imagination.,Imagination is stimulated by reading science fiction.,0
+354,Knitting can be a soothing activity.,Soothing effects can be found in knitting.,0
+355,Attending workshops facilitates skill development.,Skill development is facilitated by attending workshops.,0
+356,Gardening teaches patience and persistence.,Patience and persistence are taught through gardening.,0
+357,Using planners can enhance organizational skills.,Organizational skills are enhanced by using planners.,0
+358,Walking daily improves cardiovascular health.,Cardiovascular health is improved by walking daily.,0
+359,Painting allows for creative expression.,Creative expression is allowed through painting.,0
+360,Learning history provides context for the present.,Context for the present is provided by learning history.,0
+361,Exercising outdoors can boost mood.,Mood is boosted by exercising outdoors.,0
+362,Listening actively improves communication.,Communication is improved by active listening.,0
+363,Playing chess enhances strategic thinking.,Strategic thinking is enhanced by playing chess.,0
+364,Practicing gratitude fosters a positive mindset.,A positive mindset is fostered by practicing gratitude.,0
+365,Volunteering creates a sense of community.,A sense of community is created through volunteering.,0
+366,Creative hobbies can alleviate stress.,Stress is alleviated by engaging in creative hobbies.,0
+367,Writing essays improves argumentative skills.,Argumentative skills are improved by writing essays.,0
+368,Keeping a journal can enhance self-awareness.,Self-awareness is enhanced by keeping a journal.,0
+369,Dancing improves physical fitness.,Physical fitness is improved by dancing.,0
+370,Reading biographies offers life lessons.,Life lessons are offered by reading biographies.,0
+371,Mindfulness meditation enhances emotional regulation.,Emotional regulation is enhanced by mindfulness meditation.,0
+372,Playing team sports builds camaraderie.,Camaraderie is built through playing team sports.,0
+373,Gardening provides physical exercise.,Physical exercise is provided by gardening.,0
+374,Learning a musical instrument can be fulfilling.,Fulfillment can be found in learning a musical instrument.,0
+375,Playing strategy games develops critical thinking.,Critical thinking is developed by playing strategy games.,0
+376,Attending seminars broadens knowledge.,Knowledge is broadened by attending seminars.,0
+377,Painting can be a meditative activity.,Meditation can be found in painting.,0
+378,Journaling can be a therapeutic activity.,Therapy can be found in journaling.,0
+379,Socializing reduces feelings of loneliness.,Feelings of loneliness are reduced by socializing.,0
+380,Cooking from scratch promotes healthier eating.,Healthier eating is promoted by cooking from scratch.,0
+381,Gardening teaches responsibility and care.,Responsibility and care are taught through gardening.,0
+382,Practicing yoga improves mental clarity.,Mental clarity is improved by practicing yoga.,0
+383,Photography captures memories.,Memories are captured through photography.,0
+384,Reading improves language skills.,Language skills are improved by reading.,0
+385,Learning about different cultures enhances empathy.,Empathy is enhanced by learning about different cultures.,0
+386,Practicing mindfulness reduces stress.,Stress is reduced by practicing mindfulness.,0
+387,Regular exercise improves physical health.,Physical health is improved by regular exercise.,0
+388,Listening to music can elevate mood.,Mood is elevated by listening to music.,0
+389,Gardening provides a connection to nature.,A connection to nature is provided by gardening.,0
+390,Writing essays enhances research skills.,Research skills are enhanced by writing essays.,0
+391,Volunteering builds a sense of purpose.,A sense of purpose is built through volunteering.,0
+392,Swimming provides a full-body workout.,A full-body workout is provided by swimming.,0
+393,Cycling improves cardiovascular health.,Cardiovascular health is improved by cycling.,0
+394,Cooking at home promotes family bonding.,Family bonding is promoted by cooking at home.,0
+395,Learning history helps understand societal development.,Societal development is understood by learning history.,0
+396,Reading fiction improves empathy.,Empathy is improved by reading fiction.,0
+397,Playing musical instruments enhances creativity.,Creativity is enhanced by playing musical instruments.,0
+398,Studying history helps in understanding the present.,Understanding the present is aided by studying history.,0
+399,Listening to classical music can improve focus.,Focus is improved by listening to classical music.,0
+400,Practicing yoga enhances physical flexibility.,Physical flexibility is enhanced by practicing yoga.,0
+401,Volunteering fosters community spirit.,Community spirit is fostered by volunteering.,0
